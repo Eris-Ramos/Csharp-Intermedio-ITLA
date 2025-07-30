@@ -34,7 +34,7 @@ class Program
             Console.WriteLine("Opción no válida.");           // si el usuario ingresa una opcion no valida se le muestra un mensaje de error
         }
 
-        Console.WriteLine("Presione cualquier tecla para salir...");    // se le indica al usuario que presione una tecla para salir del programa.
+        Console.WriteLine("Presione cualquier tecla para salir...");    // se le indica al usuario que presione una tecla para salir del programa
         Console.ReadKey();
     }
 }
